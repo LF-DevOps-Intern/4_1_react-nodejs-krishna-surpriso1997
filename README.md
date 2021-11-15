@@ -13,6 +13,6 @@
 
 
 ### Answers
-
+- [Complete answer pdf](https://github.com/LF-DevOps-Intern/4_1_react-nodejs-krishna-surpriso1997/blob/master/node-react-assignments.pdf)
 - [Node JS assignment](https://github.com/LF-DevOps-Intern/4_1_react-nodejs-krishna-surpriso1997/tree/master/nodejs)
 - [React JS assignment](https://github.com/LF-DevOps-Intern/4_1_react-nodejs-krishna-surpriso1997/tree/master/reactjs)
