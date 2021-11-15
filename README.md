@@ -10,3 +10,9 @@
  - Install React.js.
  - Creating a React Application and print message "Hello React.js"
  - Change the default port 3000 to 3001
+
+
+### Answers
+
+- [Node JS assignment](https://github.com/LF-DevOps-Intern/4_1_react-nodejs-krishna-surpriso1997/tree/master/nodejs)
+- [React JS assignment](https://github.com/LF-DevOps-Intern/4_1_react-nodejs-krishna-surpriso1997/tree/master/reactjs)
